@@ -1,0 +1,47 @@
+h1{
+    color:#df09fc;
+ 
+        text-shadow: 
+                    -1px -1px 0 black,  
+                    1px -1px 0 black,
+                    -1px 1px 0 black,
+                    1px 1px 0 black; 
+
+  
+}
+
+.logo{
+    width:100px;
+    border-radius: 50px;
+   
+}
+header{
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+  
+    background-color: #490049; /* Cor de fundo do header */
+    
+}
+.conteudo{
+    padding-top: 20px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center; /* Alinha os itens horizontalmente */
+    align-items: center; /* Alinha os itens verticalmente */
+   
+   
+
+}
+@media(max-width: 377px)
+{
+    .conteudo{
+        padding-top: 10px;
+        display: flex;
+        justify-content: center; /* Alinha os itens horizontalmente */
+        align-items: center; /* Alinha os itens verticalmente */
+       
+       
+    
+    }
+}
