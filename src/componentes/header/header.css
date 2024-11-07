@@ -1,5 +1,5 @@
 h1{
-    color:#df09fc;
+    color:#907ad6;
  
         text-shadow: 
                     -1px -1px 0 black,  
@@ -20,7 +20,7 @@ header{
     justify-content: center; /* Centraliza horizontalmente */
     align-items: center; /* Centraliza verticalmente */
   
-    background-color: #490049; /* Cor de fundo do header */
+    background-color: #000000; /* Cor de fundo do header */
     
 }
 .conteudo{

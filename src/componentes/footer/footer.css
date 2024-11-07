@@ -1,13 +1,12 @@
 footer{
-    background-color: #5f0063;
+    background-color: #1d1d1d;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
-    border-top: solid #e100ff;;
+    border-top: solid #141414;;
     padding-top: 1%;
     padding-bottom: 1%;
-  
     margin-top: auto;
 }
 footer pre{

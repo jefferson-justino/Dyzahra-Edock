@@ -12,6 +12,7 @@ code {
     monospace;
 }
 html{
-  background-color: #ffa4f7;
+  background-image: url('./icones/background.png');
+  background-size: cover;
   margin: 0;
 }
