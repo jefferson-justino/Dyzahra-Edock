@@ -10,7 +10,7 @@ import './main.css'
 export default function Main (){
     const objetos = [
         {icone: imgYoutube, titulo: 'Youtube', link:'https://www.youtube.com/@dyzahra_edock' },
-        {icone:imgLivepix, titulo: 'Live Pix', link:'https://livepix.gg/dyzahraedock'} ,
+        {icone:imgLivepix, titulo: 'LivePix', link:'https://livepix.gg/dyzahraedock'} ,
         {icone: imgDiscord, titulo: 'Discord', link:'https://discord.gg/tTJZadTpC3' },
         {icone: imgThreads, titulo: 'threads', link:'https://www.threads.net/@dyzahra_edock' },
         {icone: imgInstagram, titulo: 'Instagram', link:'https://www.instagram.com/dyzahra_edock' },
