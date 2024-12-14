@@ -25,7 +25,6 @@ export default function Main (){
                 <div className='card'>
                     <img src={item.icone} alt="preview"/>
                     <h3>{item.titulo}</h3>
-                                     
                 </div>
             </a>
         )
