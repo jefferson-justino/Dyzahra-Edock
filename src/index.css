@@ -12,7 +12,7 @@ code {
     monospace;
 }
 html{
-  background-image: url('./icones/background.jpg');
+  background-image: url('./icones/background.png');
   background-size: cover;
   margin: 0;
 }
